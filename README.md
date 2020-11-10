@@ -5,7 +5,7 @@ I'm the founder and President of Verriclear Natural Skin Essentials Ltd. (a.k.a.
 
 Headquartered in [Canada](https://verriclear.com) and [Brazil](https://verriclear.com.br), Verriclear Natural Skin Essentials™ develops phytomedicinal skincare treatments from bioactive extracts of common and rare plants sourced worldwide.
 
-Verriclear™ is proud and honoured to announce our collaboration in an OpenNotebook study with two esteemed scientists from Cambridge University [Dr. Gitanjali Yadav, Ph.D., M.Sc., B.Sc.](www.nipgr.ac.in/research/dr_gyadav.php) Genome Biologist, and Lecturer University of Cambridge and [Peter Murray-Rust](https://en.wikipedia.org/wiki/Peter_Murray-Rust), Reader Emeritus in Molecular Informatics, Dept. Of Chemistry, University of Cambridge and Founder of ContentMine.org.
+Verriclear™ is proud and honoured to announce our collaboration in an OpenNotebook study with two esteemed scientists from Cambridge University [Dr. Gitanjali Yadav, Ph.D., M.Sc., B.Sc.](www.nipgr.ac.in/research/dr_gyadav.php) Genome Biologist, and Lecturer University of Cambridge and [Peter Murray-Rust, Reader Emeritus in Molecular Informatics](https://en.wikipedia.org/wiki/Peter_Murray-Rust),  Dept. Of Chemistry, University of Cambridge and Founder of ContentMine.org.
 
 ### ANNOUNCING: Mining the literature for phytomedicinal data as a process of discovery for breakthrough interventions in the pathogenesis of neglected skin diseases; an OpenNotebook study	
 
