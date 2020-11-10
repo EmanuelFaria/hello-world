@@ -11,7 +11,7 @@ Verriclear™ is proud and honoured to announce our collaboration in an OpenNote
 
 Enthusiastically aided by a team of dedicated scientists and student volunteers, in this groundbreaking research and development project, we will be creating a toolkit for searching and scraping high quality data from open science sources with the aim of developing efficacious, sustainable, affordable treatments for people suffering from [neglected skin diseases](https://en.wikipedia.org/wiki/Category:Neglected_diseases) (“NSDs”) in marginalized markets (such as [Chromoblastomycosis](https://en.wikipedia.org/wiki/Chromoblastomycosis), a fungal infection regionally endemic in developing countries) — the development of which we fund with revenues from our therapies that address pervasive skincare needs (“PSNs”) in global markets (such as [Acne Vulgaris](https://en.wikipedia.org/wiki/Acne) and [Photoaging](https://en.wikipedia.org/wiki/Photoaging)) — which is why we’ve chosen these conditions and their related symptoms as test cases for this project.
 
-Verriclear’s mandate is to consistently bring to market new reliable, affordable innovations that deliver demonstrable results that industrial-scale competitor’s simply can’t. And yet, despite all the technological breakthroughs in data processing, one of the limits affecting our capacities to continually discover and develop new therapies are those restricting the speed of data aggregation and abstraction from high-quality research.
+Verriclear’s mandate is to consistently bring to market new reliable phytomedicinal innovations that deliver demonstrable results that industrial-scale competitor’s simply can’t — or won’t, because they are constrained by business models that keep them focused on treating symptoms, not causes.<sup>1</sup> And yet, despite all the technological breakthroughs in data processing, one of the limits affecting our capacities to continually discover and develop new therapies are those restricting the speed of data aggregation and abstraction from high-quality research.
 
 The proposed toolkit — we are calling, “D.A.V.E.” — is intended to Download, Abstract, Verify and Evaluate high quality open-source research data from which Verriclear™ will develop working phytomedicinal formulas that can truly make a difference.
 
@@ -21,6 +21,6 @@ And in making public the steps we take in the development of this toolkit, we ho
 
 We invite you join, contribute to, or follow our journey of development and discovery in our OpenNotebook study on Github at https://github.com/petermr/CEVOpen.
 
+--------
 
-
-1  Or won’t, because they are constrained by business models that keep them focused on treating symptoms, not causes. See: Dalton C. [Will medicine ever recover from the perverse economics of drugs?](https://aeon.co/essays/will-medicine-ever-recover-from-the-perverse-economics-of-drugs) | Aeon Essays, August 2018
+*<sup>1</sup> Dalton C. [Will medicine ever recover from the perverse economics of drugs?](https://aeon.co/essays/will-medicine-ever-recover-from-the-perverse-economics-of-drugs) | Aeon Essays, August 2018*
